@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">NotepadApp</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="MenuOptions">
+        <item> Menu </item>
+		<item> New </item>
+		<item> Open </item>
+		<item> Save </item>
+		<item> Save_As </item>
+		<item> Exit </item>
+    </string-array>
+    <string name="fileName">Untitled</string>
+   
+    <string name="File_Name">File Name here...</string>
+<string name="recent_files">Recent Files</string>
+<string name="subitem1">subItem</string>
+
+</resources>
